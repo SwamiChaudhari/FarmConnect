@@ -1,0 +1,19 @@
+{
+  "name": "farmconnect",
+  "version": "1.0.0",
+  "description": "FarmConnect is a platform designed to bridge the gap between farmers and buyers by providing direct market access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwamiChaudhari/FarmConnect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwamiChaudhari/FarmConnect/issues"
+  },
+  "homepage": "https://github.com/SwamiChaudhari/FarmConnect#readme"
+}
